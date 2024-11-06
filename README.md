@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: Weeb
--              Low lifer
+-                      Low Lifer
 - 
 
 <!---
