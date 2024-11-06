@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @TanmayGupta
-- 👀 I’m interested in Data Science
+
+
+## Hello there, Myself Tanmay Gupta and I am a BTech First Year Student at @UPES. 
+
+
+- 👀 I’m interested in Data Science and DevOPS
 - 🌱 I’m currently learning C and Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: Weeb
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Weeb/Otaku
 -                      Low Lifer
 - 
 
