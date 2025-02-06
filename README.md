@@ -11,11 +11,12 @@ You can click the Preview link to take a look at your changes.
 
 
 - 👀 I’m interested in Data Science and DevOPS
-- 🌱 I’m currently learning C and Python
+- 🙂 I'm currently working on Python Project
+- 🌱 I’m currently learning DSA with C and Python
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Weeb/Otaku
--                      Low Lifer
-I'm currently working on Python Project<br>I'm currently learning DSA and Python<br>I'm an Otaku
+
+Low Lifer
 
 
 ## 🌐 Socials:
