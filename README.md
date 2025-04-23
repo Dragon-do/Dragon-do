@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Weeb/Otaku
 
-Low Lifer
+
 
 
 ## 🌐 Socials:
